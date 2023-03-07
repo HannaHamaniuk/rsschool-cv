@@ -42,6 +42,7 @@ alert( result );
 ##Languages
 1. Russian(Native)
 2. English(C1)
+3. German(B2);
 
 
 
